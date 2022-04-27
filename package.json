@@ -1,0 +1,29 @@
+{
+    "name": "ar-player",
+    "version": "1.0.0",
+    "description": "Audio player for AR shows. Just for fun!",
+    "author": "expo",
+    "keywords": [
+        "expo",
+        "react-native",
+        "expo-av",
+        "audio",
+        "playlist",
+        "audio-player"
+    ],
+    "private": true,
+    "main": "node_modules/expo/AppEntry.js",
+    "dependencies": {
+        "@babel/core": "^7.17.9",
+        "@react-native-community/slider": "4.1.12",
+        "expo": "^44.0.6",
+        "expo-av": "~10.2.0",
+        "react": "17.0.1",
+        "react-dom": "17.0.1",
+        "react-native": "0.64.3",
+        "react-native-web": "0.17.1"
+    },
+    "devDependencies": {
+        "babel-preset-expo": "^9.0.2"
+    }
+}

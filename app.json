@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "ar-player",
+    "description": "Audio player for AR shows. Just for fun!",
+    "scheme": "ar-player",
+    "slug": "ar-player",
+    "privacy": "public",
+    "sdkVersion": "44.0.0",
+    "version": "1.0.0",
+    "platforms": ["android", "ios"],
+    "githubUrl": "https://github.com/EricThirteen/ar-player",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "packagerOpts": {
+      "assetExts": ["png", "ttf"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
