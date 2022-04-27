@@ -625,7 +625,7 @@ export default class App extends React.Component {
                     onPress={this._onSkipForward60}
                     disabled={this.state.isLoading}
                 >
-                    <MaterialCommunityIcons name="fast-forward-15" style={styles.controlButton} />
+                    <MaterialCommunityIcons name="fast-forward-60" style={styles.controlButton} />
                 </TouchableHighlight>
             </View>
         {/* Volume */}
